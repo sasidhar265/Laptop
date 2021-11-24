@@ -11,8 +11,6 @@ public class LapTop
 	String company;
 	String model;
 	
-	//LapTop[] a;
-	
 	public LapTop(int id, int warrentyPeriod, double ratings, double width, double height, double price, String company,
 				  String model) 
 	{
@@ -29,7 +27,7 @@ public class LapTop
 
 	public LapTop() 
 	{
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	
